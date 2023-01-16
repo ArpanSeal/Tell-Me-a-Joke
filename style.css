@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-size: 100% 100%;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#para{
+  background-color: white;  
+  border: 3px solid #d6d6d6;
+  border-radius: 20px;
+  margin: 15px;
+  margin-top: 20px;
+  padding: 5px 20px;
+}
+
+#para1{
+  font-size: 25px;
+  font-family: 'Bree Serif', serif;
+}
+
+#joke{
+  font-size: 15px;
+  font-family: 'Baloo Bhai 2', cursive;
+}
